@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"test:open": "cypress open",
+		"test:run": "cypress run --browser chrome",
+		"test:headed": "cypress run --browser chrome --headed"
+	},
+	"devDependencies": {
+		"cypress": "^15.5.0"
+	}
+}

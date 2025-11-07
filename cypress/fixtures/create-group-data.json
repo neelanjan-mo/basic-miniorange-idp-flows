@@ -1,0 +1,24 @@
+{
+  "groups": [
+    { "name": "Finance Operations" },
+    { "name": "Product Alpha Team" },
+    { "name": "QA Automation Squad" },
+    { "name": "Marketing Strategy Group" },
+    { "name": "Security Audit Team" },
+    { "name": "Customer Success Unit" },
+    { "name": "Engineering Core" },
+    { "name": "Infrastructure Services" },
+    { "name": "Sales Enablement" },
+    { "name": "Analytics Lab" },
+    { "name": "Design System Guild" },
+    { "name": "DevOps Integration" },
+    { "name": "Support Excellence" },
+    { "name": "HR Policy Group" },
+    { "name": "Partner Management" },
+    { "name": "Mobile Development Team" },
+    { "name": "Compliance Review Board" },
+    { "name": "AI Research Group" },
+    { "name": "Data Platform Team" },
+    { "name": "Customer Feedback Loop" }
+  ]
+}

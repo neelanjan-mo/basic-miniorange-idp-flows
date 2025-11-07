@@ -1,0 +1,13 @@
+[
+    {
+        "url": "https://neelanjan.miniorange.in/moas/login",
+        "valid": {
+            "username": "neelanjanmukherji88@gmail.com",
+            "password": "poppins123"
+        },
+        "invalid": {
+            "username": "neelanjanmukherji88@gmail.com",
+            "password": "wrongpassword"
+        }
+    }
+]
