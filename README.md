@@ -1,5 +1,3 @@
-Below is a tight, standards-driven rule book updated for **class-based POM + class-based object-repo**, followed by **minimal setup** and **sample implementation** including **custom Cypress commands**. Copy/paste and ship.
-
 # Rule Book — Class-Based POM + Object-Repo (Minimal)
 
 ## Folder Contract
